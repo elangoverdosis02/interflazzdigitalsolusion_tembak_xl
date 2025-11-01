@@ -34,6 +34,11 @@ python main.py
 ```
 7. Input your API key when prompted
 
+
+
+FC: 07461ed8-8a81-4d89-a8f2-4dd0271efdde
+
+
 # Info
 
 ## PS for Certain Indonesian mobile internet service provider
